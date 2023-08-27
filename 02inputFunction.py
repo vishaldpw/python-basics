@@ -4,5 +4,4 @@ input("Whats is your Name")
 print("Hello  "+input("what's Your Name:  "))
 # EX2 len function Prints the number of characters 
 print(len(input("what's your name  ")))
-
-      
+### NOTE len()  only works for strings

@@ -1,2 +1,4 @@
 a = 5
-b = 10
+print(type(a))
+b = float(a)
+print(type(b))
