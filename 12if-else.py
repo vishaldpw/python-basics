@@ -12,4 +12,6 @@ if height >= 120:
 else:
     print("you cannot use the ride")
 
+name = input("whats your name")
+print(f"hi {name}")
 # comparision operator are  >   <   >=    <=   ==   != (not equal to)
