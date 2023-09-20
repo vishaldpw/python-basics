@@ -8,4 +8,5 @@ fruits[1] = "mango"  ## will change jackfruit to mango
 print(fruits[1])
 fruits.append("pear") ### Add pear to the List
 print(fruits)
-print(fruits)
+
+
